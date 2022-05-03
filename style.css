@@ -1,0 +1,36 @@
+* {
+  font: 16px/20px Arial;
+}
+button {
+  background-color: rgb(50, 167, 217);
+  border-radius: 10px;
+  padding: 1px 5px;
+  border-color: black;
+}
+button:hover {
+  background-color: transparent;
+}
+#list {
+  list-style-type: none;
+}
+.error {
+  border-color: red;
+}
+#input {
+  padding: 1px 0 1px 5px;
+  margin: 0 0 5px 0;
+}
+.error_message {
+  color: red;
+}
+.list_item {
+  font-style: normal;
+  margin: 0 0 5px 0;
+}
+#list {
+  margin: 0;
+  padding: 0;
+}
+.delete {
+  margin: 0 0 0 5px;
+}
